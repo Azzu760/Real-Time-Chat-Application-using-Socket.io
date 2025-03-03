@@ -1,4 +1,4 @@
-# Chat Application
+# Real-Time Chat Application
 
 A real-time chat application built with **React + Vite** for the frontend, **Node.js & Express** for the backend, and **Socket.IO** for real-time messaging. The app uses **MongoDB** as the database.
 
